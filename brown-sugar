@@ -1,0 +1,6 @@
+@font-face {
+ font-family: brown-sugar;
+ font-style: normal;
+ font-weight: 400;
+ src: url(https://github.com/jaloriemackson/Sonder/blob/main/brown-sugar.ttf) ;
+}
