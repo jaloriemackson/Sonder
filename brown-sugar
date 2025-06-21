@@ -2,5 +2,5 @@
  font-family: brown-sugar;
  font-style: normal;
  font-weight: 400;
- src: url(https://github.com/jaloriemackson/Sonder/blob/2d8673d486f8f847b5e76b2d9acd5cab0e897c23/brown-sugar.ttf);
+ src: url(OTTO);
 }
